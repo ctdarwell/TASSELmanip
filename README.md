@@ -7,7 +7,8 @@ Plots Table S1 in Korinsak et al. using an output file of Tassel (Bradbury et al
 
 There should be five columns in the Tassel results file names: ['Trait', 'Marker', 'Chr', 'Pos', 'p']. If not contact me and I will help to generalise the program to accomodate different Tassel output formats. Tassel file should be tab separated.
 
-MSU gene list is as downloaded format.
+MSU gene list is as downloaded format. NB runtime may take several (e.g. 3-4hrs) hours - may parallelise in future.
+
 
 
 
