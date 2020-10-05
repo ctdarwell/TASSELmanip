@@ -26,13 +26,21 @@ Same as #2 - plus a line type option.
 Makes an annotated LD heatmap featuring genes, markers and/or regions of interest. Under `#PARAMS` you can change:
 
 Input file - `file`
+
 Work folder - `workfldr`
+
 File prefix - `prefix`
+
 DPI - `dpi`
+
 Chromosomal region - `region`: entered as a list of start-finish positions
+
 Genes to highlight - `genes`: entered as a list
+
 Interesting markers - `markers_to_highlight`: entered as list of positions
+
 Colours of gene labels -`colours`: entered as a list from ['white', 'blue', 'red', 'black', 'green', 'dkred']
+
 Regions of Interest (bold red triangles on heatmap) - `rois`: entered as list of lists of start-finish positions (can leave blank = [])
 
 NB lists for `genes`, `markers_to_highlight`, `markers_to_highlight` must be of equal length
