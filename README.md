@@ -21,7 +21,7 @@ Makes Manhattan plots from Tassel output data. Draws both false discovery rate a
 Same as #2 - plus a line type option.
 
 
-4. `LDheatmapMaker_cbar.v1.0.py` depends on R output `mkHM.R`
+4. `LDheatmapMaker_cbar.v1.0.py` depends on R output from `mkHM.R`
 
 Makes an annotated LD heatmap featuring genes, markers and/or regions of interest. Under `#PARAMS` you can change:
 
