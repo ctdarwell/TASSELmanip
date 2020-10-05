@@ -10,6 +10,7 @@ There should be five columns in the Tassel results file names: ['Trait', 'Marker
 MSU gene list is as downloaded format.
 
 
+
 2. `tassleManhattanPlotter.v1.0.py`
 
 Makes Manhattan plots from Tassel output data. Draws both false discovery rate and bootstrap threshold lines on the graphs. Python recognised colours [`colors`], figure DPI [`dpi`], figure dimensions [`figsize`], fontize [`fontsize`], and output directory [`outdir`] can be set in the script.
