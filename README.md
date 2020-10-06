@@ -3,18 +3,17 @@ Python scripts for dealing with TASSEL outputs and other aspects of GWAS analyse
 
 1. `tassel2geneTable_msu7.v1.0.py`
 
-The primary program cited in Korinsak et al. plots Table S1 using an output file of Tassel (Bradbury et al Bioinformatics 2007) results and a list of MSU pseudogenes (http://rice.plantbiology.msu.edu/pub/data/Eukaryotic_Projects/o_sativa/annotation_dbs/pseudomolecules/). You can alter the file manually, or alternatively, the command `python tassel2geneTable_msu7.v1.0.py -h` in a terminal will give a list of argument options to set file names, thresholds (false discovery rate vs. bootstrap), output files prefix, and an option to output a full (somewhat unwieldy) results table. 
+The primary program cited in Korinsak et al. plots Table S1 using an output file of Tassel (Bradbury et al Bioinformatics 2007) results and a list of MSU pseudogenes (http://rice.plantbiology.msu.edu/pub/data/Eukaryotic_Projects/o_sativa/annotation_dbs/pseudomolecules/). You can alter the file names etc manually, or alternatively, the command `python tassel2geneTable_msu7.v1.0.py -h` in a terminal will give a list of argument options to set file names, thresholds (false discovery rate vs. bootstrap), output files prefix, and an option to output a full (somewhat unwieldy) results table. 
 
-There should be five columns in the Tassel results file names: ['Trait', 'Marker', 'Chr', 'Pos', 'p']. If not contact me and I will help to generalise the program to accomodate different Tassel output formats. Tassel file should be tab separated.
+There should be five columns in the Tassel results file names: ['Trait', 'Marker', 'Chr', 'Pos', 'p']. If not contact me and I will help to generalise the program to accomodate different Tassel output formats. The Tassel file should be tab separated.
 
-MSU gene list is as downloaded format. NB runtime may take several (e.g. 3-4hrs) hours - may parallelise in future.
-
+MSU gene list is as downloaded format. NB runtime may take several (i.e. 3-4) hours - may parallelise in future.
 
 
 
 2. `tassleManhattanPlotter.v1.0.py`
 
-Makes Manhattan plots from Tassel output data. Draws both false discovery rate and bootstrap threshold lines on the graphs. Python recognised colours [`colors`], figure DPI [`dpi`], figure dimensions [`figsize`], fontize [`fontsize`], and output directory [`outdir`] can be set in the script (under `#set params`).
+Makes Manhattan plots from Tassel output data. Draws both false discovery rate and bootstrap threshold ablines on the graphs. Python recognised colours [`colors`], figure DPI [`dpi`], figure dimensions [`figsize`], fontize [`fontsize`], and output directory [`outdir`] can be set in the script (under `#set params`).
 
 
 3. `tasselQQ.v1.0.py`
@@ -24,7 +23,7 @@ Same as #2 - plus a line type option.
 
 4. `LDheatmapMaker_cbar.v1.0.py` depends on R output from `mkHM.R`
 
-Makes an annotated LD heatmap featuring genes, markers and/or regions of interest. Under `#PARAMS` you can change:
+Makes an annotated LD heatmap featuring genes, markers and/or regions of interest. In the script, under `#PARAMS` you can change:
 
 Input file - `file`
 
