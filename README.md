@@ -3,7 +3,7 @@ Python scripts for dealing with TASSEL outputs and other aspects of GWAS analyse
 
 1. `tassel2geneTable_msu7.v1.0.py`
 
-The primary program refernced in Korinsak et al. plots Table S1 using an output file of Tassel (Bradbury et al Bioinformatics 2007) results. Using a list of MSU pseudogenes (http://rice.plantbiology.msu.edu/pub/data/Eukaryotic_Projects/o_sativa/annotation_dbs/pseudomolecules/). You can alter the file manually, or alternatively, the command `python tassel2geneTable_msu7.v1.0.py -h` in a terminal will give a list of argument options to set file names, thresholds (false discovery rate vs. bootstrap), output files prefix, and an option to output a full (somewhat unwieldy) results table. 
+The primary program cited in Korinsak et al. plots Table S1 using an output file of Tassel (Bradbury et al Bioinformatics 2007) results. Using a list of MSU pseudogenes (http://rice.plantbiology.msu.edu/pub/data/Eukaryotic_Projects/o_sativa/annotation_dbs/pseudomolecules/). You can alter the file manually, or alternatively, the command `python tassel2geneTable_msu7.v1.0.py -h` in a terminal will give a list of argument options to set file names, thresholds (false discovery rate vs. bootstrap), output files prefix, and an option to output a full (somewhat unwieldy) results table. 
 
 There should be five columns in the Tassel results file names: ['Trait', 'Marker', 'Chr', 'Pos', 'p']. If not contact me and I will help to generalise the program to accomodate different Tassel output formats. Tassel file should be tab separated.
 
