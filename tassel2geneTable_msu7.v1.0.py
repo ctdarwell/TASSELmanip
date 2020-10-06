@@ -60,10 +60,9 @@ print(f"\n{PREFIX}{file}\n")
 tmp_data = pd.read_csv(file, header = 0, sep='\t')
 tbr = ['Trait', 'Marker', 'Chr', 'Pos', 'p']
 data = pd.DataFrame()
-
 for t in tbr: data = pd.concat([data, tmp_data[t]], axis = 1)
 traits = data.Trait.unique()
-
+tmp_data = None
 genes_df = pd.read_csv(GENES_DF, header=0)
 
 def main():
