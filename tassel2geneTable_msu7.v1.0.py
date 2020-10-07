@@ -148,8 +148,6 @@ def writeTable(tab, colours, txt, txt2):
     pp.close()
     plt.close(fig)
 
-    pd.DataFrame(colours).to_csv(f"{PREFIX}MLM_BLB_tassel_LDgenes_colours{txt}{txt2}_msu7.csv", index = False)
-
 #calculate false discovery rate
 def fdr(p):
     p_values = np.sort(p)
