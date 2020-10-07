@@ -7,7 +7,7 @@ The primary program cited in Korinsak et al. plots Table S1 using an output file
 
 There should be five columns in the Tassel results file names: ['Trait', 'Marker', 'Chr', 'Pos', 'p']. If not contact me and I will help to generalise the program to accomodate different Tassel output formats. The Tassel file should be tab separated.
 
-MSU gene list is as downloaded format (reduced here as 'genes.csv'). NB runtime may take several (i.e. 3-4) hours - may parallelise in future. The files 'genes.csv' & 'tassel.txt' are redacted test run files to be placed in the same directory as the program scripts. It should run out of the box.
+MSU gene list is as downloaded format (reduced here as 'genes.csv'). NB runtime may take several (i.e. 3-4) hours - may parallelise in future. The files 'genes.csv' & 'tassel.txt' are redacted/reduced test run files to be placed in the same directory as the program scripts. It should run out of the box.
 
 
 
