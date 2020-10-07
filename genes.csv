@@ -1,0 +1,189 @@
+chr,locus,model,start,stop,ori,is_TE,is_expressed,is_representative,annotation
+Chr11,LOC_Os11g37000,LOC_Os11g37000.1,21839186,21843540,+,N,Y,Y,"heat shock protein DnaJ, putative, expressed"
+Chr11,LOC_Os11g37010,LOC_Os11g37010.1,21850235,21852087,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37020,LOC_Os11g37020.1,21853372,21854777,-,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g37040,LOC_Os11g37040.1,21860270,21864027,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37050,LOC_Os11g37050.1,21872063,21877085,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37060,LOC_Os11g37060.1,21881616,21882979,+,N,Y,Y,"OsFBDUF52 - F-box and DUF domain containing protein, expressed"
+Chr11,LOC_Os11g37070,LOC_Os11g37070.2,21883168,21888749,-,N,Y,N,expressed protein
+Chr11,LOC_Os11g37080,LOC_Os11g37080.1,21890393,21892408,+,N,Y,Y,"h/ACA ribonucleoprotein complex subunit 1-like protein 1, putative, expressed"
+Chr11,LOC_Os11g37090,LOC_Os11g37090.1,21892581,21897269,-,N,Y,Y,"pumilio-family RNA binding repeat domain containing protein, expressed"
+Chr11,LOC_Os11g37100,LOC_Os11g37100.1,21906342,21909267,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37110,LOC_Os11g37110.1,21909642,21910871,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37120,LOC_Os11g37120.1,21912912,21915983,-,N,Y,Y,"nucleolar protein 5, putative, expressed"
+Chr11,LOC_Os11g37130,LOC_Os11g37130.1,21920159,21923345,-,N,Y,Y,"mttA/Hcf106 family protein, putative, expressed"
+Chr11,LOC_Os11g37140,LOC_Os11g37140.1,21925866,21928146,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37160,LOC_Os11g37160.1,21935928,21937046,-,Y,Y,Y,expressed protein
+Chr11,LOC_Os11g37170,LOC_Os11g37170.1,21944547,21951020,+,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g37180,LOC_Os11g37180.1,21951620,21954661,-,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g37190,LOC_Os11g37190.1,21966870,21969203,+,N,Y,Y,"allergen-related, putative, expressed"
+Chr11,LOC_Os11g37200,LOC_Os11g37200.1,21982349,21986444,+,N,Y,Y,"transmembrane BAX inhibitor motif-containing protein, putative, expressed"
+Chr11,LOC_Os11g37210,LOC_Os11g37210.1,21986648,21990350,-,N,Y,Y,"MTN26L5 - MtN26 family protein precursor, expressed"
+Chr11,LOC_Os11g37230,LOC_Os11g37230.2,21991574,21994240,-,N,Y,N,"zinc finger, C3HC4 type domain containing protein, expressed"
+Chr11,LOC_Os11g37240,LOC_Os11g37240.1,21998129,21998518,+,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g37250,LOC_Os11g37250.1,21999678,22001569,+,N,N,Y,hypothetical protein
+Chr11,LOC_Os11g37260,LOC_Os11g37260.1,22003368,22010520,+,N,Y,Y,"SEY1, putative, expressed"
+Chr11,LOC_Os11g37270,LOC_Os11g37270.1,22011917,22013643,-,N,Y,Y,"AMBP1 - Antimicrobial peptide MBP-1 family protein precursor, expressed"
+Chr11,LOC_Os11g37280,LOC_Os11g37280.1,22016848,22018539,+,N,Y,Y,"LTPL68 - Protease inhibitor/seed storage/LTP family protein precursor, expressed"
+Chr11,LOC_Os11g37290,LOC_Os11g37290.1,22019353,22021569,-,Y,N,Y,hypothetical protein
+Chr11,LOC_Os11g37300,LOC_Os11g37300.1,22025760,22029748,+,N,Y,Y,"OsFBDUF53 - F-box and DUF domain containing protein, expressed"
+Chr11,LOC_Os11g37310,LOC_Os11g37310.1,22032819,22034099,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37320,LOC_Os11g37320.1,22038252,22039017,-,N,Y,Y,"LTPL79 - Protease inhibitor/seed storage/LTP family protein precursor, putative, expressed"
+Chr11,LOC_Os11g37330,LOC_Os11g37330.1,22040368,22044971,+,N,Y,N,"pentatricopeptide repeat domain containing protein, putative, expressed"
+Chr11,LOC_Os11g37340,LOC_Os11g37340.1,22045646,22046842,+,N,Y,Y,"OsFBX426 - F-box domain containing protein, expressed"
+Chr11,LOC_Os11g37350,LOC_Os11g37350.1,22048863,22050000,-,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g37360,LOC_Os11g37360.1,22052568,22053197,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37370,LOC_Os11g37370.1,22055065,22055457,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37380,LOC_Os11g37380.1,22061627,22061953,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37390,LOC_Os11g37390.1,22068104,22070409,+,N,Y,Y,"OsFBDUF54 - F-box and DUF domain containing protein, expressed"
+Chr11,LOC_Os11g37400,LOC_Os11g37400.1,22085040,22088318,+,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g37410,LOC_Os11g37410.1,22090454,22090687,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37420,LOC_Os11g37420.1,22094589,22103145,-,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g37430,LOC_Os11g37430.1,22107264,22108200,+,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g37440,LOC_Os11g37440.1,22108454,22112727,+,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g37460,LOC_Os11g37460.1,22115982,22119311,-,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g37480,LOC_Os11g37480.1,22130906,22131124,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37490,LOC_Os11g37490.1,22134433,22135219,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37500,LOC_Os11g37500.1,22136114,22136620,+,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g37510,LOC_Os11g37510.1,22139918,22143879,+,N,Y,Y,"ribosomal protein L4, putative, expressed"
+Chr11,LOC_Os11g37520,LOC_Os11g37520.1,22150225,22155604,+,N,Y,Y,"BTBT3 - Bric-a-Brac, Tramtrack, Broad Complex BTB domain with tetratricopeptide repeats, expressed"
+Chr11,LOC_Os11g37530,LOC_Os11g37530.1,22156557,22158706,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37540,LOC_Os11g37540.1,22159509,22173475,+,N,Y,Y,"protein phosphatase 2C, putative, expressed"
+Chr11,LOC_Os11g37550,LOC_Os11g37550.1,22173476,22174756,-,N,Y,Y,"OsCML6 - Calmodulin-related calcium sensor protein, expressed"
+Chr11,LOC_Os11g37560,LOC_Os11g37560.1,22175492,22178883,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37570,LOC_Os11g37570.1,22181152,22181556,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37580,LOC_Os11g37580.1,22186464,22187684,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37590,LOC_Os11g37590.1,22189546,22192827,+,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g37600,LOC_Os11g37600.1,22195333,22198198,+,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g37610,LOC_Os11g37610.1,22199410,22202646,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37620,LOC_Os11g37620.1,22203734,22204676,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37630,LOC_Os11g37630.1,22208279,22212647,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37640,LOC_Os11g37640.1,22215791,22219121,+,N,Y,Y,"ADP-ribosylation factor, putative, expressed"
+Chr11,LOC_Os11g37660,LOC_Os11g37660.1,22223651,22231042,-,N,Y,Y,"vegetative storage protein, putative, expressed"
+Chr11,LOC_Os11g37670,LOC_Os11g37670.1,22241400,22244430,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37680,LOC_Os11g37680.1,22261451,22266150,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37690,LOC_Os11g37690.1,22267448,22271484,-,N,Y,Y,"TBC domain containing protein, expressed"
+Chr11,LOC_Os11g37700,LOC_Os11g37700.1,22272820,22282438,-,N,Y,Y,"pleiotropic drug resistance protein, putative, expressed"
+Chr11,LOC_Os11g37710,LOC_Os11g37710.1,22289994,22294793,+,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g37720,LOC_Os11g37720.1,22301910,22303659,+,N,Y,Y,"integral membrane protein DUF6 domain containing protein, expressed"
+Chr11,LOC_Os11g37730,LOC_Os11g37730.2,22305683,22310092,+,N,Y,N,"glutathione S-transferase, N-terminal domain containing protein, expressed"
+Chr11,LOC_Os11g37740,LOC_Os11g37740.1,22310966,22319156,+,N,Y,Y,"stripe rust resistance protein Yr10, putative, expressed"
+Chr11,LOC_Os11g37750,LOC_Os11g37750.1,22321580,22324989,+,Y,Y,Y,"retrotransposon protein, putative, Ty1-copia subclass, expressed"
+Chr11,LOC_Os11g37759,LOC_Os11g37759.2,22328967,22334081,+,N,Y,N,"stripe rust resistance protein Yr10, putative, expressed"
+Chr11,LOC_Os11g37770,LOC_Os11g37770.1,22339911,22340717,-,Y,N,Y,"retrotransposon protein, putative, unclassified"
+Chr11,LOC_Os11g37774,LOC_Os11g37774.1,22351283,22356398,+,N,Y,Y,"stripe rust resistance protein Yr10, putative, expressed"
+Chr11,LOC_Os11g37780,LOC_Os11g37780.1,22366978,22370692,+,N,Y,Y,"stripe rust resistance protein Yr10, putative, expressed"
+Chr11,LOC_Os11g37790,LOC_Os11g37790.1,22382419,22384761,+,N,Y,Y,"mla, putative, expressed"
+Chr11,LOC_Os11g37800,LOC_Os11g37800.1,22385204,22389776,+,N,Y,Y,"mla1, putative, expressed"
+Chr11,LOC_Os11g37810,LOC_Os11g37810.1,22394137,22394676,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37820,LOC_Os11g37820.1,22396862,22403007,+,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g37830,LOC_Os11g37830.1,22403642,22406832,-,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g37840,LOC_Os11g37840.1,22413502,22414235,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37850,LOC_Os11g37850.1,22419268,22424868,+,N,Y,Y,"stripe rust resistance protein Yr10, putative, expressed"
+Chr11,LOC_Os11g37860,LOC_Os11g37860.1,22427759,22435407,+,N,Y,Y,"stripe rust resistance protein Yr10, putative, expressed"
+Chr11,LOC_Os11g37870,LOC_Os11g37870.1,22442247,22445393,+,N,Y,Y,"stripe rust resistance protein Yr10, putative, expressed"
+Chr11,LOC_Os11g37880,LOC_Os11g37880.1,22451636,22458566,+,N,Y,Y,"stripe rust resistance protein Yr10, putative, expressed"
+Chr11,LOC_Os11g37890,LOC_Os11g37890.3,22459800,22464681,-,N,Y,N,"NAD dependent epimerase/dehydratase family protein, putative, expressed"
+Chr11,LOC_Os11g37900,LOC_Os11g37900.1,22468253,22471487,-,N,Y,Y,"3-ketoacyl-CoA synthase, putative, expressed"
+Chr11,LOC_Os11g37910,LOC_Os11g37910.1,22489163,22490613,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37920,LOC_Os11g37920.1,22491418,22493083,+,N,Y,Y,"DJ-1 family protein, putative, expressed"
+Chr11,LOC_Os11g37930,LOC_Os11g37930.1,22495066,22495548,-,N,Y,Y,"WIP1 - Wound-induced protein precursor, expressed"
+Chr11,LOC_Os11g37940,LOC_Os11g37940.1,22498498,22500491,+,N,Y,Y,"WIP2 - Wound-induced protein precursor, expressed"
+Chr11,LOC_Os11g37944,LOC_Os11g37944.1,22500532,22501194,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g37950,LOC_Os11g37950.1,22502007,22503109,+,N,Y,Y,"WIP3 - Wound-induced protein precursor, expressed"
+Chr11,LOC_Os11g37960,LOC_Os11g37960.1,22505993,22507419,+,N,Y,Y,"WIP4 - Wound-induced protein precursor, expressed"
+Chr11,LOC_Os11g37970,LOC_Os11g37970.1,22511506,22512404,+,N,Y,Y,"WIP5 - Wound-induced protein precursor, expressed"
+Chr11,LOC_Os11g37980,LOC_Os11g37980.1,22514187,22518111,-,N,Y,Y,"GAUT2/LGT2, putative, expressed"
+Chr11,LOC_Os11g37990,LOC_Os11g37990.1,22523576,22529593,-,N,Y,Y,"chloroplastic group IIA intron splicing facilitator CRS1, chloroplast precursor, putative, expressed"
+Chr11,LOC_Os11g45000,LOC_Os11g45000.1,27245555,27248422,-,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45010,LOC_Os11g45010.1,27248606,27250360,-,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45030,LOC_Os11g45030.1,27253813,27254034,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45040,LOC_Os11g45040.1,27258523,27260356,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45050,LOC_Os11g45050.1,27261093,27264194,+,N,Y,Y,"NBS-LRR disease resistance protein, putative, expressed"
+Chr11,LOC_Os11g45060,LOC_Os11g45060.1,27268948,27273348,+,N,Y,Y,"NB-ARC domain containing protein, expressed"
+Chr11,LOC_Os11g45070,LOC_Os11g45070.1,27275880,27276342,+,N,N,Y,hypothetical protein
+Chr11,LOC_Os11g45080,LOC_Os11g45080.1,27279667,27281312,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45090,LOC_Os11g45090.1,27282232,27285045,+,N,Y,Y,"NB-ARC domain containing protein, expressed"
+Chr11,LOC_Os11g45100,LOC_Os11g45100.1,27289803,27290078,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45110,LOC_Os11g45110.1,27297616,27298224,-,N,N,Y,hypothetical protein
+Chr11,LOC_Os11g45120,LOC_Os11g45120.1,27308209,27309827,+,Y,N,Y,conserved hypothetical protein
+Chr11,LOC_Os11g45130,LOC_Os11g45130.1,27318942,27324163,+,N,Y,Y,"pollen signalling protein with adenylyl cyclase activity, putative, expressed"
+Chr11,LOC_Os11g45140,LOC_Os11g45140.1,27325730,27326645,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45150,LOC_Os11g45150.1,27329572,27329772,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45160,LOC_Os11g45160.1,27335214,27337380,+,N,Y,Y,"disease resistance protein, putative, expressed"
+Chr11,LOC_Os11g45170,LOC_Os11g45170.1,27337735,27338412,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45180,LOC_Os11g45180.1,27342028,27345123,+,N,Y,Y,"NBS-LRR disease resistance protein, putative, expressed"
+Chr11,LOC_Os11g45190,LOC_Os11g45190.1,27349483,27354931,+,N,Y,Y,"NB-ARC domain containing protein, expressed"
+Chr11,LOC_Os11g45200,LOC_Os11g45200.1,27356016,27360787,-,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45210,LOC_Os11g45210.1,27362049,27363189,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45220,LOC_Os11g45220.1,27366725,27368303,-,N,Y,Y,"IWS1 homolog A, putative, expressed"
+Chr11,LOC_Os11g45230,LOC_Os11g45230.1,27370532,27373472,+,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g45240,LOC_Os11g45240.1,27373785,27381739,-,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g45250,LOC_Os11g45250.1,27383516,27388433,-,N,Y,Y,"ribonucleases P/MRP protein subunit POP1 containing protein, expressed"
+Chr11,LOC_Os11g45260,LOC_Os11g45260.1,27390110,27390385,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45270,LOC_Os11g45270.1,27394421,27395137,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45280,LOC_Os11g45280.2,27399319,27406606,+,N,Y,N,"protein kinase family protein, putative, expressed"
+Chr11,LOC_Os11g45290,LOC_Os11g45290.2,27408007,27409993,+,Y,Y,N,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45295,LOC_Os11g45295.1,27410898,27415634,+,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45320,LOC_Os11g45320.1,27416739,27420058,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45330,LOC_Os11g45330.1,27427776,27430560,+,N,Y,Y,"disease resistance protein RPM1, putative, expressed"
+Chr11,LOC_Os11g45350,LOC_Os11g45350.1,27435170,27437031,+,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g45360,LOC_Os11g45360.1,27437610,27438082,-,N,Y,Y,"DEFL15 - Defensin and Defensin-like DEFL family, expressed"
+Chr11,LOC_Os11g45370,LOC_Os11g45370.1,27442020,27442433,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45380,LOC_Os11g45380.1,27449823,27452792,-,N,Y,Y,"zinc finger family protein, putative, expressed"
+Chr11,LOC_Os11g45390,LOC_Os11g45390.1,27467600,27474866,-,N,Y,Y,"von Willebrand factor type A domain containing protein, putative, expressed"
+Chr11,LOC_Os11g45400,LOC_Os11g45400.1,27486903,27490269,+,N,Y,Y,"glycerol-3-phosphate acyltransferase, putative, expressed"
+Chr11,LOC_Os11g45410,LOC_Os11g45410.1,27492479,27497702,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45420,LOC_Os11g45420.1,27498825,27501691,+,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45430,LOC_Os11g45430.1,27503199,27503762,-,Y,N,Y,"transposon protein, putative, unclassified"
+Chr11,LOC_Os11g45440,LOC_Os11g45440.1,27512833,27514285,-,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45450,LOC_Os11g45450.1,27519439,27519966,-,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45460,LOC_Os11g45460.1,27521810,27523358,+,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g45470,LOC_Os11g45470.1,27529990,27530460,+,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g45480,LOC_Os11g45480.1,27531033,27533321,+,Y,N,Y,"transposon protein, putative, CACTA, En/Spm sub-class"
+Chr11,LOC_Os11g45490,LOC_Os11g45490.1,27535826,27538780,+,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g45500,LOC_Os11g45500.1,27542085,27542522,+,Y,Y,Y,"retrotransposon protein, putative, Ty3-gypsy subclass, expressed"
+Chr11,LOC_Os11g45510,LOC_Os11g45510.1,27553555,27555525,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45520,LOC_Os11g45520.1,27561661,27562923,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45530,LOC_Os11g45530.1,27563288,27567463,-,Y,Y,Y,"transposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45540,LOC_Os11g45540.1,27571083,27574113,-,N,Y,Y,"TKL_IRAK_DUF26-lh.11 - DUF26 kinases have homology to DUF26 containing loci, expressed"
+Chr11,LOC_Os11g45550,LOC_Os11g45550.1,27575039,27576028,-,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45560,LOC_Os11g45560.1,27576676,27579282,-,N,Y,Y,"MBTB68 - Bric-a-Brac, Tramtrack, Broad Complex BTB domain with Meprin and TRAF Homology MATH domain, expressed"
+Chr11,LOC_Os11g45570,LOC_Os11g45570.1,27582218,27582649,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45580,LOC_Os11g45580.1,27583623,27589186,-,N,Y,Y,"embryogenesis transmembrane protein, putative, expressed"
+Chr11,LOC_Os11g45590,LOC_Os11g45590.2,27590978,27596228,+,Y,Y,N,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g45600,LOC_Os11g45600.1,27596830,27597897,-,N,Y,Y,"rust resistance protein Rp1-dp8, putative, expressed"
+Chr11,LOC_Os11g45610,LOC_Os11g45610.1,27598304,27603116,+,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45620,LOC_Os11g45620.1,27603341,27609143,-,N,Y,Y,"rust-resistance protein Lr21, putative, expressed"
+Chr11,LOC_Os11g45650,LOC_Os11g45650.1,27612037,27615355,+,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g45660,LOC_Os11g45660.1,27616558,27619790,-,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g45670,LOC_Os11g45670.1,27621816,27625516,+,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g45680,LOC_Os11g45680.1,27630081,27633319,+,Y,Y,Y,"transposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45690,LOC_Os11g45690.1,27633965,27640121,-,Y,Y,Y,"transposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45710,LOC_Os11g45710.3,27648702,27655231,-,N,Y,N,"Os11bglu36  SFR2 homologue, expressed"
+Chr11,LOC_Os11g45720,LOC_Os11g45720.1,27656251,27658409,-,N,Y,Y,"pectinesterase, putative, expressed"
+Chr11,LOC_Os11g45730,LOC_Os11g45730.1,27660456,27662609,-,N,Y,Y,"pectinesterase, putative, expressed"
+Chr11,LOC_Os11g45740,LOC_Os11g45740.1,27670321,27673334,-,N,Y,Y,"MYB family transcription factor, putative, expressed"
+Chr11,LOC_Os11g45750,LOC_Os11g45750.1,27683753,27695070,-,Y,Y,N,"WRKY125, expressed"
+Chr11,LOC_Os11g45770,LOC_Os11g45770.1,27694881,27695746,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45780,LOC_Os11g45780.1,27701070,27701883,-,N,Y,Y,"RGH2B, putative, expressed"
+Chr11,LOC_Os11g45790,LOC_Os11g45790.1,27703761,27707310,-,N,Y,Y,"NB-ARC domain containing protein, expressed"
+Chr11,LOC_Os11g45800,LOC_Os11g45800.1,27715402,27715668,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45809,LOC_Os11g45809.1,27717452,27721100,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45820,LOC_Os11g45820.1,27723836,27726283,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45840,LOC_Os11g45840.1,27734572,27737316,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45850,LOC_Os11g45850.1,27740142,27741375,+,N,Y,Y,"WRKY61, expressed"
+Chr11,LOC_Os11g45864,LOC_Os11g45864.1,27743718,27749419,-,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g45880,LOC_Os11g45880.1,27752701,27755233,-,Y,Y,Y,"transposon protein, putative, CACTA, En/Spm sub-class, expressed"
+Chr11,LOC_Os11g45890,LOC_Os11g45890.1,27759845,27761647,-,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45899,LOC_Os11g45899.1,27764931,27767518,+,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45908,LOC_Os11g45908.1,27768003,27771893,+,Y,Y,Y,"retrotransposon protein, putative, unclassified, expressed"
+Chr11,LOC_Os11g45920,LOC_Os11g45920.1,27779324,27785982,-,Y,Y,Y,"WRKY63, expressed"
+Chr11,LOC_Os11g45924,LOC_Os11g45924.1,27789618,27791943,-,Y,Y,Y,"WRKY41, expressed"
+Chr11,LOC_Os11g45930,LOC_Os11g45930.1,27793777,27797821,+,N,Y,Y,"NBS-LRR type disease resistance protein, putative, expressed"
+Chr11,LOC_Os11g45940,LOC_Os11g45940.1,27799133,27800295,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45950,LOC_Os11g45950.1,27804177,27804967,-,N,Y,Y,"NAC domain-containing protein 90, putative, expressed"
+Chr11,LOC_Os11g45960,LOC_Os11g45960.1,27806906,27807244,+,N,Y,Y,expressed protein
+Chr11,LOC_Os11g45970,LOC_Os11g45970.1,27812251,27818431,-,N,Y,Y,"NBS-LRR disease resistance protein, putative, expressed"
+Chr11,LOC_Os11g45980,LOC_Os11g45980.1,27820309,27824920,+,N,Y,Y,"NBS-LRR type disease resistance protein, putative, expressed"
+Chr11,LOC_Os11g45990,LOC_Os11g45990.1,27828621,27835246,+,N,Y,Y,"von Willebrand factor type A domain containing protein, putative, expressed"
