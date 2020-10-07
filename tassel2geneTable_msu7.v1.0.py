@@ -112,9 +112,8 @@ def main():
     colours = genCols(tab)
     writeTable(tab, colours, txt, txt2)
     writeXL(tab, colours, gene_funcs, txt, txt2)
-    chroms = data.Chr.unique()[~np.isnan(data.Chr.unique())]
-    if THRESH == 'BOOT': thrs = [thr] * chroms.shape[0]
-    restLoci(data, all_sign_locs, txt, txt2, thrs, chroms)
+    if THRESH == 'BOOT': thrs = [thr] * traits.shape[0]
+    restLoci(data, all_sign_locs, txt, txt2, thrs)
 
 #make colours DF to match final DF
 def genCols(tab):
@@ -213,7 +212,7 @@ def writeXL(tab, colours, gene_funcs, txt, txt2):
     writer2.save()
 
 #work out the rest of the sign. SNPs not found in MSU regions
-def restLoci(data, all_sign_locs, txt, txt2, thrs, chroms):
+def restLoci(data, all_sign_locs, txt, txt2, thrs):
     other_sgnLocs = pd.DataFrame()
     rest = data.loc[~data.Marker.isin(all_sign_locs)]
     new = rest.iloc[:, 4:5].applymap(lambda x: math.log10(x) * -1)
