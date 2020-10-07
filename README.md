@@ -7,9 +7,9 @@ The primary program cited in Korinsak et al. plots Table S1 using an output file
 
 There should be five columns in the Tassel results file names: ['Trait', 'Marker', 'Chr', 'Pos', 'p']. If not contact me and I will help to generalise the program to accomodate different Tassel output formats. The Tassel file should be tab separated.
 
-MSU gene list is as downloaded format (reduced here as 'genes.csv'). NB runtime may take several (i.e. 3-4) hours - may parallelise in future. The files 'genes.csv' & 'tassel.txt' are redacted/reduced test run files to be placed in the same directory as the program scripts. It should run out of the box.
+MSU gene list is as per downloaded format (reduced here as 'genes.csv'). NB runtime may take several (i.e. 3-4) hours (may parallelise in future). The files 'genes.csv' & 'tassel.txt' are redacted/reduced test run files to be placed in the same directory as the program scripts. It should run out of the box.
 
-The PDF files is the Table S1 formatted output; 'PREFIX_MLM_BLB_tassel_LDgenes_fdr_msu7.xlsx' is the same tabular output to XL; 'PREFIX_MLM_BLB_tassel_LDfuncGenes_fdr_msu7.xlsx' is a tabular version of the annotated regions; 'PREFIX_MLM_BLB_tassel_LDgenes_other_sign_locs_fdr_msu7.csv' is a list of SNPs not contained in MSU gene regions; 'PREFIXFDR_identifed_loci_msu7.csv' is a simpler format of identified MSU regions.  
+The outputted PDF file is the Table S1 formatted output; '[PREFIX]_MLM_BLB_tassel_LDgenes_fdr_msu7.xlsx' is the same tabular output to XL format; '[PREFIX]_MLM_BLB_tassel_LDfuncGenes_fdr_msu7.xlsx' is a tabular version of the annotated regions; '[PREFIX]_MLM_BLB_tassel_LDgenes_other_sign_locs_fdr_msu7.csv' is a list of other SNPs not contained within MSU gene regions; '[PREFIX]_FDR_identifed_loci_msu7.csv' is a simpler format of identified SNPs within MSU regions.  
 
 2. `tassleManhattanPlotter.v1.0.py`
 
@@ -21,9 +21,9 @@ Makes Manhattan plots from Tassel output data. Draws both false discovery rate a
 Same as #2 - plus a line type option.
 
 
-4. `LDheatmapMaker_cbar.v1.0.py` depends on R output from `mkHM.R`
+4. `LDheatmapMaker_cbar.v1.0.py` 
 
-Makes an annotated LD heatmap featuring genes, markers and/or regions of interest. In the script, under `#PARAMS` you can change:
+Depends on R output from `mkHM.R` which requires a VCF (for a chromososme) as input. Makes an annotated LD heatmap featuring genes, markers and/or regions of interest. In the script, under `#PARAMS` you can change:
 
 Input file - `file`
 
