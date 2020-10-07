@@ -12,8 +12,8 @@ from matplotlib.font_manager import FontProperties
 THRESH = ['BOOT', 'FDR'][0] #set threshold method: bootstrap vs. false discovery rate
 reduce_table = 1 # choose 1 for table reduction (sign results nly)
 PREFIX = 'outFile' #output files prefix
-file = 'tmpTass.txt' #tassel output file e.g. 'MLM_tassle_BLB_all.txt'
-GENES_DF = 'tmpGenes.csv' #ref genome gene location info
+file = 'tassel.txt' #tassel output file e.g. 'MLM_tassle_BLB_all.txt'
+GENES_DF = 'genes.csv' #ref genome gene location info
 
 #read any new params
 if '-h' in sys.argv:
