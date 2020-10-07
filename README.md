@@ -9,7 +9,7 @@ There should be five columns in the Tassel results file names: ['Trait', 'Marker
 
 MSU gene list is as downloaded format (reduced here as 'genes.csv'). NB runtime may take several (i.e. 3-4) hours - may parallelise in future. The files 'genes.csv' & 'tassel.txt' are redacted/reduced test run files to be placed in the same directory as the program scripts. It should run out of the box.
 
-
+The PDF files is the Table S1 formatted output; 'PREFIX_MLM_BLB_tassel_LDgenes_fdr_msu7.xlsx' is the same tabular output to XL; 'PREFIX_MLM_BLB_tassel_LDfuncGenes_fdr_msu7.xlsx' is a tabular version of the annotated regions; 'PREFIX_MLM_BLB_tassel_LDgenes_other_sign_locs_fdr_msu7.csv' is a list of SNPs not contained in MSU gene regions; 'PREFIXFDR_identifed_loci_msu7.csv' is a simpler format of identified MSU regions.  
 
 2. `tassleManhattanPlotter.v1.0.py`
 
