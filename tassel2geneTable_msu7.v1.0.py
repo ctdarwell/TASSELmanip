@@ -10,7 +10,7 @@ from matplotlib.font_manager import FontProperties
 
 #SET PARAMS & INPUT FILES:
 THRESH = ['BOOT', 'FDR'][1] #set threshold method: [0] = bootstrap, [1] = false discovery rate
-reduce_table = 1 # choose 1 for table reduction (sign results nly)
+reduce_table = 1 # choose 1 for table reduction (sign results only)
 PREFIX = 'outFile' #output files prefix
 file = 'tassel.txt' #tassel output file e.g. 'MLM_tassle_BLB_all.txt'
 GENES_DF = 'genes.csv' #ref genome gene location info
