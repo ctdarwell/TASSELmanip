@@ -5,9 +5,11 @@ Python scripts for dealing with TASSEL outputs and other aspects of GWAS analyse
 
 The primary program cited in Korinsak et al. plots Table S1 using an output file of Tassel (Bradbury et al Bioinformatics 2007) results and a list of MSU pseudogenes (http://rice.plantbiology.msu.edu/pub/data/Eukaryotic_Projects/o_sativa/annotation_dbs/pseudomolecules/). You can alter the file names etc manually, or alternatively, the command `python tassel2geneTable_msu7.v1.0.py -h` in a terminal will give a list of argument options to set file names, thresholds (false discovery rate vs. bootstrap), output files prefix, and an option to output a full (somewhat unwieldy) results table. 
 
-There should be five columns in the Tassel results file names: ['Trait', 'Marker', 'Chr', 'Pos', 'p']. If not contact me and I will help to generalise the program to accomodate different Tassel output formats. The Tassel file should be tab separated.
+There should be five columns in the Tassel results file names: ['Trait', 'Marker', 'Chr', 'Pos', 'p']. If not contact me and I will help to generalise the program to accommodate different Tassel output formats. The Tassel file should be tab separated.
 
 MSU gene list is as per downloaded format (reduced here as 'genes.csv'). NB runtime may take several (i.e. 3-4) hours (may parallelise in future). The files 'genes.csv' & 'tassel.txt' are redacted/reduced test run files to be placed in the same directory as the program scripts. It should run out of the box.
+
+To run the test data you can simply run `python tassel2geneTable_msu7.v1.0.py` OR to run with named test data files: `python tassel2geneTable_msu7.v1.0.py -f tassel.txt -g genes.csv` [i.e. you should change the names of *tassel.txt* and *genes.csv* to identify your own input files]. `-r 0`, `-t 0` and `-p newPrefix` are the other parameter options.
 
 The outputted PDF file is the Table S1 formatted output; '[PREFIX]_MLM_BLB_tassel_LDgenes_fdr_msu7.xlsx' is the same tabular output to XL format; '[PREFIX]_MLM_BLB_tassel_LDfuncGenes_fdr_msu7.xlsx' is a tabular version of the annotated regions; '[PREFIX]_MLM_BLB_tassel_LDgenes_other_sign_locs_fdr_msu7.csv' is a list of other SNPs not contained within MSU gene regions; '[PREFIX]_FDR_identifed_loci_msu7.csv' is a simpler format of identified SNPs within MSU regions.  
 
